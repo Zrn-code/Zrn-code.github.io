@@ -1,3 +1,6 @@
+https://zrn-code.github.io/2021/05/31/prime/
+https://zrn-code.github.io/statistics/index.html
+https://zrn-code.github.io/2020/11/15/d555/
 https://zrn-code.github.io/google02028e92fa0a253f.html
 https://zrn-code.github.io/2020/08/02/a233/
 https://zrn-code.github.io/gallery/index.html
@@ -122,7 +125,6 @@ https://zrn-code.github.io/2021/03/04/java-03/
 https://zrn-code.github.io/2021/02/23/java-02/
 https://zrn-code.github.io/2021/02/23/java-01/
 https://zrn-code.github.io/links/index.html
-https://zrn-code.github.io/statistics/index.html
 https://zrn-code.github.io/talking/index.html
 https://zrn-code.github.io/2021/11/03/linear-algebra-04/
 https://zrn-code.github.io/2021/12/09/story04/
@@ -143,7 +145,6 @@ https://zrn-code.github.io/2021/07/01/story03/
 https://zrn-code.github.io/2020/09/14/pleasure/
 https://zrn-code.github.io/2021/06/27/lin-ML-02/
 https://zrn-code.github.io/2021/06/17/lin-ML/
-https://zrn-code.github.io/2021/05/31/%E7%AF%A9%E8%B3%AA%E6%95%B8/
 https://zrn-code.github.io/2021/04/25/story02/
 https://zrn-code.github.io/2020/12/31/story01/
 https://zrn-code.github.io/2020/10/11/pr/
@@ -165,7 +166,6 @@ https://zrn-code.github.io/2020/11/15/c010/
 https://zrn-code.github.io/2020/11/15/d385/
 https://zrn-code.github.io/2020/11/15/d501/
 https://zrn-code.github.io/2020/11/15/c471/
-https://zrn-code.github.io/2020/11/15/d555/
 https://zrn-code.github.io/2020/11/15/d150/
 https://zrn-code.github.io/2020/10/19/a583/
 https://zrn-code.github.io/2020/10/19/c074/
@@ -420,13 +420,13 @@ https://zrn-code.github.io/2020/03/14/a001/
 https://zrn-code.github.io/about/index-1.html
 https://zrn-code.github.io/
 https://zrn-code.github.io/tags/Tioj/
-https://zrn-code.github.io/tags/%E5%9F%BA%E6%9C%AC%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA/
 https://zrn-code.github.io/tags/DP/
 https://zrn-code.github.io/tags/%E6%B0%B4%E9%A1%8C/
 https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/
 https://zrn-code.github.io/tags/%E7%B4%84%E7%91%9F%E5%A4%AB%E5%95%8F%E9%A1%8C/
-https://zrn-code.github.io/tags/%E5%AD%97%E4%B8%B2/
+https://zrn-code.github.io/tags/%E5%9F%BA%E6%9C%AC%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA/
 https://zrn-code.github.io/tags/%E4%BD%8D%E5%85%83DP/
+https://zrn-code.github.io/tags/%E5%AD%97%E4%B8%B2/
 https://zrn-code.github.io/tags/DFS/
 https://zrn-code.github.io/tags/%E7%AA%AE%E8%88%89%E6%B3%95/
 https://zrn-code.github.io/tags/%E4%BA%8C%E9%80%B2%E4%BD%8D/
@@ -436,16 +436,16 @@ https://zrn-code.github.io/tags/Hash%E9%81%8B%E7%94%A8/
 https://zrn-code.github.io/tags/dp/
 https://zrn-code.github.io/tags/BFS/
 https://zrn-code.github.io/tags/%E9%81%8A%E6%88%B2/
-https://zrn-code.github.io/tags/%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7/
 https://zrn-code.github.io/tags/floyd-warshall/
 https://zrn-code.github.io/tags/%E8%B2%AA%E5%BF%83%E6%B3%95/
 https://zrn-code.github.io/tags/%E6%A8%B9%E7%9B%B4%E5%BE%91/
 https://zrn-code.github.io/tags/%E6%A8%A1%E6%9D%BF%E9%A1%8C/
-https://zrn-code.github.io/tags/STL/
-https://zrn-code.github.io/tags/TOI%E5%88%9D%E9%81%B8/
 https://zrn-code.github.io/tags/%E4%B8%89%E5%88%86%E5%9C%96/
 https://zrn-code.github.io/tags/map/
 https://zrn-code.github.io/tags/codeforces/
+https://zrn-code.github.io/tags/STL/
+https://zrn-code.github.io/tags/%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7/
+https://zrn-code.github.io/tags/TOI%E5%88%9D%E9%81%B8/
 https://zrn-code.github.io/tags/priority-queue/
 https://zrn-code.github.io/tags/%E8%B3%AA%E6%95%B8/
 https://zrn-code.github.io/tags/AI/
@@ -455,11 +455,11 @@ https://zrn-code.github.io/tags/tensorflow/
 https://zrn-code.github.io/tags/%E5%AF%A6%E4%BD%9CAI/
 https://zrn-code.github.io/tags/python/
 https://zrn-code.github.io/tags/%E6%B7%BA%E8%AB%87AI/
-https://zrn-code.github.io/tags/%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98/
-https://zrn-code.github.io/tags/keras/
 https://zrn-code.github.io/tags/CNN/
-https://zrn-code.github.io/tags/%E7%89%A9%E9%AB%94%E8%BE%A8%E8%AD%98/
+https://zrn-code.github.io/tags/keras/
+https://zrn-code.github.io/tags/%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98/
 https://zrn-code.github.io/tags/%E6%83%85%E7%B7%92%E5%88%86%E6%9E%90/
+https://zrn-code.github.io/tags/%E7%89%A9%E9%AB%94%E8%BE%A8%E8%AD%98/
 https://zrn-code.github.io/tags/RNN/
 https://zrn-code.github.io/tags/C/
 https://zrn-code.github.io/tags/%E5%9F%BA%E7%A4%8E%E5%9C%96%E8%AB%96/
@@ -536,6 +536,7 @@ https://zrn-code.github.io/tags/%E7%B4%80%E5%BF%B5%E6%96%87/
 https://zrn-code.github.io/tags/%E7%94%9F%E6%B4%BB%E9%9A%A8%E7%AD%86/
 https://zrn-code.github.io/tags/%E6%80%A7%E5%90%91%E5%88%86%E6%9E%90/
 https://zrn-code.github.io/tags/%E6%BC%94%E7%AE%97%E6%B3%95/
+https://zrn-code.github.io/tags/%E5%9F%BA%E6%9C%AC%E5%8A%9F/
 https://zrn-code.github.io/tags/%E6%8A%92%E6%83%85/
 https://zrn-code.github.io/tags/%E5%91%8A%E7%99%BD/
 https://zrn-code.github.io/tags/%E6%84%9F%E6%83%85/
@@ -544,7 +545,6 @@ https://zrn-code.github.io/tags/%E5%8F%8D%E6%80%9D/
 https://zrn-code.github.io/tags/%E8%B6%85%E5%9F%BA%E7%A4%8E%E4%B9%8B%E9%81%93/
 https://zrn-code.github.io/tags/wordpress/
 https://zrn-code.github.io/tags/%E6%9E%B6%E8%A8%AD%E7%B6%B2%E7%AB%99/
-https://zrn-code.github.io/tags/%E5%9F%BA%E6%9C%AC%E5%8A%9F/
 https://zrn-code.github.io/categories/record/
 https://zrn-code.github.io/categories/record/Tioj/
 https://zrn-code.github.io/categories/record/codeforces/
