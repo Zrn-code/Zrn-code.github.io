@@ -288,6 +288,12 @@ Find &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;
 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;l&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;msub&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;→&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;mrow&gt;&lt;mo fence=&#34;true&#34;&gt;(&lt;/mo&gt;&lt;mfrac&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;mo&gt;⋅&lt;/mo&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;mo fence=&#34;true&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;⋅&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;= lim_{x\rightarrow 0}\left ( \frac{x}{sinx} \cdot (1+cosx) \right ) = 1 \cdot 2 = 2&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.36687em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.20001em;vertical-align:-0.35001em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathdefault&#34; style=&#34;margin-right:0.01968em;&#34;&gt;l&lt;/span&gt;&lt;span class=&#34;mord mathdefault&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathdefault&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.30110799999999993em;&#34;&gt;&lt;span style=&#34;top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathdefault mtight&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mrel mtight&#34;&gt;→&lt;/span&gt;&lt;span class=&#34;mord mtight&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.16666666666666666em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;minner&#34;&gt;&lt;span class=&#34;mopen delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size1&#34;&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.695392em;&#34;&gt;&lt;span style=&#34;top:-2.6550000000000002em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathdefault mtight&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;mord mathdefault mtight&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathdefault mtight&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mord mathdefault mtight&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.394em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathdefault mtight&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.345em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;⋅&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathdefault&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;mord mathdefault&#34;&gt;o&lt;/span&gt;&lt;span class=&#34;mord mathdefault&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;mord mathdefault&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;mclose delimcenter&#34; style=&#34;top:0em;&#34;&gt;&lt;span class=&#34;delimsizing size1&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;⋅&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 </content>
+        <category term="自修課程(大學)" scheme="https://zrn-code.github.io/categories/pre-learning/" />
+        <category term="微積分甲(一)" scheme="https://zrn-code.github.io/categories/pre-learning/%E5%BE%AE%E7%A9%8D%E5%88%86%E7%94%B2-%E4%B8%80/" />
+        <category term="數學" scheme="https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/" />
+        <category term="微積分" scheme="https://zrn-code.github.io/tags/%E5%BE%AE%E7%A9%8D%E5%88%86/" />
+        <category term="大學" scheme="https://zrn-code.github.io/tags/%E5%A4%A7%E5%AD%B8/" />
+        <category term="自修" scheme="https://zrn-code.github.io/tags/%E8%87%AA%E4%BF%AE/" />
         <updated>2022-05-10T04:49:09.000Z</updated>
     </entry>
     <entry>
@@ -342,9 +348,9 @@ Find &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;
         <category term="自修課程(大學)" scheme="https://zrn-code.github.io/categories/pre-learning/" />
         <category term="離散數學" scheme="https://zrn-code.github.io/categories/pre-learning/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="數學" scheme="https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/" />
-        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="大學" scheme="https://zrn-code.github.io/tags/%E5%A4%A7%E5%AD%B8/" />
         <category term="自修" scheme="https://zrn-code.github.io/tags/%E8%87%AA%E4%BF%AE/" />
+        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <updated>2022-02-14T13:22:15.000Z</updated>
     </entry>
     <entry>
@@ -424,9 +430,9 @@ Find &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;
         <category term="自修課程(大學)" scheme="https://zrn-code.github.io/categories/pre-learning/" />
         <category term="離散數學" scheme="https://zrn-code.github.io/categories/pre-learning/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="數學" scheme="https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/" />
-        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="大學" scheme="https://zrn-code.github.io/tags/%E5%A4%A7%E5%AD%B8/" />
         <category term="自修" scheme="https://zrn-code.github.io/tags/%E8%87%AA%E4%BF%AE/" />
+        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <updated>2022-02-13T06:06:06.000Z</updated>
     </entry>
     <entry>
@@ -501,9 +507,9 @@ Find &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;
         <category term="自修課程(大學)" scheme="https://zrn-code.github.io/categories/pre-learning/" />
         <category term="離散數學" scheme="https://zrn-code.github.io/categories/pre-learning/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="數學" scheme="https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/" />
-        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="大學" scheme="https://zrn-code.github.io/tags/%E5%A4%A7%E5%AD%B8/" />
         <category term="自修" scheme="https://zrn-code.github.io/tags/%E8%87%AA%E4%BF%AE/" />
+        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <updated>2022-01-31T05:23:06.000Z</updated>
     </entry>
     <entry>
@@ -772,9 +778,9 @@ eg.&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&l
         <category term="自修課程(大學)" scheme="https://zrn-code.github.io/categories/pre-learning/" />
         <category term="離散數學" scheme="https://zrn-code.github.io/categories/pre-learning/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="數學" scheme="https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/" />
-        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="大學" scheme="https://zrn-code.github.io/tags/%E5%A4%A7%E5%AD%B8/" />
         <category term="自修" scheme="https://zrn-code.github.io/tags/%E8%87%AA%E4%BF%AE/" />
+        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <updated>2022-01-29T06:15:12.000Z</updated>
     </entry>
     <entry>
@@ -966,9 +972,9 @@ x \equiv r_k (\bmod n_k) \\
         <category term="自修課程(大學)" scheme="https://zrn-code.github.io/categories/pre-learning/" />
         <category term="離散數學" scheme="https://zrn-code.github.io/categories/pre-learning/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="數學" scheme="https://zrn-code.github.io/tags/%E6%95%B8%E5%AD%B8/" />
-        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <category term="大學" scheme="https://zrn-code.github.io/tags/%E5%A4%A7%E5%AD%B8/" />
         <category term="自修" scheme="https://zrn-code.github.io/tags/%E8%87%AA%E4%BF%AE/" />
+        <category term="離散數學" scheme="https://zrn-code.github.io/tags/%E9%9B%A2%E6%95%A3%E6%95%B8%E5%AD%B8/" />
         <updated>2022-01-27T10:41:06.000Z</updated>
     </entry>
     <entry>
